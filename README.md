@@ -15,4 +15,4 @@ After organizing all of the pertinent company data and organizing it into multip
 - 90,398 employees are expected to retire and partake in the silver tsunami
 - 1,549 employees qualift for mentorship eligibility
 ! (https://github.com/wolfi584/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.PNG)
-!
+! (https://github.com/wolfi584/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.PNG)
